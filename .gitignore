@@ -3,4 +3,3 @@
 !.env.example
 __pycache__/
 .venv/
-data/
